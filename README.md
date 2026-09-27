@@ -4,7 +4,7 @@ A minimal URL shortener built with FastAPI, SQLite, and SQLModel. Accepts a long
 
 I worked on this project to help me work with databases using Python as well with FastAPI in chunks. 
 
-This project was worked on as I now each piece can be tested independently and you can see the results quickly with working URL redirects. 
+This project was worked on as now each piece can be tested independently and you can see the results quickly with working URL redirects. 
 
 ---
 
